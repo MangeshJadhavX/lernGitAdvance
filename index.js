@@ -1,4 +1,4 @@
-const c = 10;
+const a = 10;
 const b =3;
 let a = 3;
 
@@ -12,10 +12,3 @@ function getb(){
 }
 
 getb();
-
-
-function print(){
-    console.log("hello world");
-}
-
-print();
