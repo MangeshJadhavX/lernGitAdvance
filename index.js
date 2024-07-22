@@ -13,6 +13,7 @@ function getb(){
 
 const newFun=()=>{
     console.log('new fun Added');
+    console.log('this is arrow fun');
 }
 
 newFun();
