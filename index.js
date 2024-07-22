@@ -16,6 +16,12 @@ const newFun=()=>{
     console.log('this is arrow fun');
 }
 
+function newFunb (){
+    console.log('this is fun b');
+}
+
+newFunb();
+
 newFun();
 
 getb();
