@@ -11,4 +11,10 @@ function getb(){
     console.log(b);
 }
 
+const newFun=()=>{
+    console.log('new fun Added');
+}
+
+newFun();
+
 getb();
